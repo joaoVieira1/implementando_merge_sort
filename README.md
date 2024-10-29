@@ -5,7 +5,7 @@ Implementação do algoritmo de ordenação merge sort em linguagem C
 
 ## Técnicas utilizadas
 Para a implementação desse algoritmo técnicas de estrutura de dados, 
-recursão, modularização foram necessárias.
+recursão, modularização e clean code foram necessárias.
 
 ## Tecnologias utilizadas 💻 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
